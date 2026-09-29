@@ -1,1 +1,1 @@
-# KT-1_xml_dtd
+# KT_xml_dtd
